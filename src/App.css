@@ -3,3 +3,12 @@
   margin: 3rem;
 }
 
+#graph-summary-container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
+.line-chart {
+  width: 90%;
+}
